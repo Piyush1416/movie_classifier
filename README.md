@@ -3,7 +3,7 @@
 
 ##Steps to run the code:
 
-1. git clone 
+1. git clone https://github.com/Piyush1416/movie_classifier.git
 
 2. cd go to project directory
 
