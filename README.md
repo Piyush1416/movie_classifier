@@ -15,9 +15,11 @@ Giving us an output in form of dictionary as follows:
 We are using trained Machine Learning algorithm to make these smart guess. We are training our Model based on Movie-lens dataset and then using this trained model to make prediction on new movie plots and titles.
 
 
-#prerequisite: The system running CLI should have python installed on it.
+# prerequisite: 
 
-#Installation:
+The system running CLI should have python installed on it.
+
+# Installation:
 
 1. Clone my repository 'git clone  https://github.com/Piyush1416/movie_classifier.git'
 
@@ -34,7 +36,7 @@ We are using trained Machine Learning algorithm to make these smart guess. We ar
 6. That would give us a Dictionary as output with movie Genre detected.
 
 
-#Programmming Laguage, Libraries and Algorithm
+# Programmming Laguage, Libraries and Algorithm
 
 1. I have used Python as programming language.
 
@@ -69,5 +71,4 @@ I have conducted unit testing,based on different criterias:
 
 3. If empty strings for TITLE & DESCRIPTION are given as inputs.
 
-
-#Comments are Present in code
+4. All Comments are Present in the code
