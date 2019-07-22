@@ -1,0 +1,11 @@
+README.md
+movie_classifier/__init__.py
+movie_classifier/__main__.py
+movie_classifier/movie_classifier.py
+movie_classifier.egg-info/PKG-INFO
+movie_classifier.egg-info/SOURCES.txt
+movie_classifier.egg-info/dependency_links.txt
+movie_classifier.egg-info/entry_points.txt
+movie_classifier.egg-info/not-zip-safe
+movie_classifier.egg-info/requires.txt
+movie_classifier.egg-info/top_level.txt
