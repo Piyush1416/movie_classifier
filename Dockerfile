@@ -1,4 +1,4 @@
-FROM SCRATCH
+FROM scratch
 
 ADD install.sh
 ADD setup.py
