@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM movie_classifier
 
 ADD install.sh
 ADD setup.py
