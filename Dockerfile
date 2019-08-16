@@ -1,5 +1,5 @@
 # using the ubuntu:latest image from docker-hub
-FROM python:latest
+FROM ubuntu:latest
 
 # basic update all command
 RUN apt-get update -y
