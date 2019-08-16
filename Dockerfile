@@ -19,8 +19,4 @@ COPY requirements.txt .
 # install the requirements
 RUN pip install -r requirements.txt
 
-COPY install.sh .
-
-RUN install.sh
-
-ENTRYPOINT ["python", "movie_classifier"]
+CMD /bin/bash install.sh
