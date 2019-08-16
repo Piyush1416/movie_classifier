@@ -19,6 +19,6 @@ COPY requirements.txt .
 # install the requirements
 RUN pip install -r requirements.txt
 
-RUN ./install.sh
+RUN setup.py
 
 ENTRYPOINT ["python", "movie_classifier"]
