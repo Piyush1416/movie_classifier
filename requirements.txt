@@ -1,5 +1,4 @@
 pandas
-python==3.6
 nltk
 argparse
 sklearn
