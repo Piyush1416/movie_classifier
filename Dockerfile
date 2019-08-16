@@ -1,4 +1,4 @@
-FROM movie_classifier
+FROM SCRATCH
 
 ADD install.sh
 ADD setup.py
